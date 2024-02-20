@@ -15,13 +15,14 @@ class MongoAPI:
         self.mycol = self.mydb[col]
 
     # Q1
-    def meals_with_macros(self, protein, calories, sodium, fat, num = 10):
+    def meals_with_macros(self, protein, calories, sodium, fat, num = 5):
         """Takes desired macro breakdown and returns list of matching recipes
         Args:
             protein (int): desired grams of protein threshold
             calories (int): desired calories threshold
             sodium (int): desired grams of sodium threshold
             fat (int): desired grams of fat threshold
+            num (int): number of recipes to return, default = 5
         Returns:
             result (list): list of recipes that meet criteria and associated macros
         """
@@ -34,11 +35,11 @@ class MongoAPI:
         return result
     
     # Q2
-    def count_ingredients(self, max_ingredients = 5, num = 10):
+    def count_ingredients(self, max_ingredients = 5, num = 5):
         """Returns recipe list including recipes with a max number of ingredients
         Args:
-            max_ingredients (int): max desired number of ingredients 
-            num (int): number of recipes to return
+            max_ingredients (int): max desired number of ingredients, default = 5
+            num (int): number of recipes to return, default = 5
         Returns:
             result (list): list of recipes with desired number of ingredients or less
         """
@@ -94,10 +95,10 @@ class MongoAPI:
         plt.show()
     
     # Q5
-    def count_categories(self, num):
+    def count_categories(self, num=5):
         """Plot the categories with the most occurences
         Args:
-            num (int): number of categories to return
+            num (int): number of categories to return, default = 5
         """
         pipeline = [{'$unwind': '$categories'},
                     {'$group' : { '_id' : '$categories', 'count' : {'$sum' : 1}}},
@@ -119,10 +120,10 @@ class MongoAPI:
         plt.title(f'Top {num} Categories with the Most Recipes')
         plt.show()
         
-    def category_ratings(self, num = 10):
+    def category_ratings(self, num = 5):
         """Plot the categories with the top average ratings
         Args:
-            num (int): number of categories to return
+            num (int): number of categories to return, default = 5
         """
         # first pipeline for filtering categories with less than 10 occurences
         pipeline1 = [{'$unwind': '$categories'},
@@ -156,11 +157,11 @@ class MongoAPI:
         plt.show()
 
     # Q7    
-    def search_ingredient(self, target_ingredient, num=10):
+    def search_ingredient(self, target_ingredient, num=5):
         """Returns list of recipes containing target ingredient
         Args:
             target_ingredient (str): desired ingredient
-            num (int): number of recipes to return
+            num (int): number of recipes to return, default = 5
         Returns:
             result (list): list of recipes containing target ingredient
         """
@@ -205,10 +206,10 @@ class MongoAPI:
         return result
     
     # Q10
-    def few_directions(self, num = 10):
+    def few_directions(self, num = 5):
         """Returns recipes with the least directions
         Args:
-            num (int): number of recipes to return
+            num (int): number of recipes to return, default = 5
         Returns:
             result (list): list of recipes with the least directions
         """

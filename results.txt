@@ -1,0 +1,839 @@
+Query 1: Can I get a list of meals that fulfill my desired macronutrient goals?
+Query 1 Output:
+[{'calories': 250,
+  'desc': None,
+  'directions': ['Preheat oven to 450°F and coat inside of a 13- by 9-inch '
+                 'glass or ceramic baking or gratin dish with 1 tablespoon '
+                 'butter. Cut 2 thin slices from each lemon half and squeeze '
+                 'juice from remaining lemon.',
+                 'Mash together remaining 2 tablespoons butter, 1 teaspoon '
+                 'lemon juice, and shallot and season well with salt and '
+                 'pepper. Sprinkle dish with remaining juice.',
+                 'Cook lettuce in a large pot of salted boiling water 1 '
+                 'minute. Immediately transfer with tongs to a bowl of ice '
+                 'water to cool. Drain lettuce and cut out ribs, leaving top 1 '
+                 'inch of leaves intact.',
+                 'Spread out 1 lettuce leaf lengthwise on a work surface. '
+                 'Place another leaf on first leaf, overlapping enough to '
+                 'cover any holes (use 2 extra leaves if necessary). Season 1 '
+                 'piece halibut with salt and pepper and place crosswise in '
+                 'center of lettuce. Spread top of fish with one fourth of '
+                 'shallot butter. Wrap lettuce over fish to form a packet '
+                 '(don’t worry if ends aren’t covered by lettuce) and transfer '
+                 'to baking dish. Make 3 more packets in same manner, '
+                 'arranging them close together in baking dish.',
+                 'Top each packet with a lemon slice. Cover packets with a '
+                 'sheet of wax or parchment paper, then tightly cover dish '
+                 'with foil.',
+                 'Bake in middle of oven until centers of packets are just '
+                 'firm to the touch, 15 to 20 minutes, depending on thickness '
+                 'of fish. Serve with pan juices poured over packets.'],
+  'fat': 11,
+  'ingredients': ['3 tablespoons unsalted butter, softened',
+                  '1 lemon, halved crosswise',
+                  '2 tablespoons finely chopped shallot',
+                  '10 unblemished large outer romaine leaves (from 2 heads)',
+                  '4 (6-oz) pieces halibut, cod, or other white fish fillet (1 '
+                  '1/4 to 1 1/2 inches thick)'],
+  'protein': 33,
+  'rating': 3.75,
+  'sodium': 123,
+  'title': 'Romaine-Wrapped Halibut '},
+ {'calories': 290,
+  'desc': None,
+  'directions': ['Melt butter in heavy large skillet over medium heat. Add '
+                 'leeks and sprinkle with sugar and thyme. Season with salt '
+                 'and pepper. Sauté 5 minutes. Reduce heat and cover and cook '
+                 'until very soft, stirring occasionally, about 10 minutes. '
+                 'Season fish with salt and pepper. Arrange atop leeks. Add '
+                 'cream and vermouth. Cover and cook until fish is opaque, '
+                 'about 8 minutes. Transfer fish to plates and keep warm.',
+                 'Boil sauce until slightly thickened, about 3 minutes. Season '
+                 'to taste with salt and pepper. Top fish with sauce and '
+                 'leeks. Garnish with chives.'],
+  'fat': 12,
+  'ingredients': ['2 tablespoons (1/4 stick) butter',
+                  '3 large leeks (white and pale green parts only), halved '
+                  'lengthwise, sliced',
+                  '2 teaspoons sugar',
+                  '1/2 teaspoon dried thyme, crumbled',
+                  '4 6- to 8-ounce orange roughy fillets',
+                  '1/2 cup whipping cream',
+                  '1/4 cup dry vermouth',
+                  'Fresh chives or green onion tops cut into 1-inch lengths'],
+  'protein': 34,
+  'rating': 4.375,
+  'sodium': 157,
+  'title': 'Braised Orange Roughy with Leeks '},
+ {'calories': 289,
+  'desc': None,
+  'directions': ['Trim excess fat from duck breasts. Heat a 12-inch heavy '
+                 'skillet over high heat until very hot. Pat breasts dry and '
+                 'season with salt. Put breasts, skin sides down, in skillet '
+                 'and reduce heat to moderate. Cook breasts 20 minutes, or '
+                 'until skin is crisp and mahogany-colored, removing fat from '
+                 'skillet as it is rendered with a metal bulb baster (or very '
+                 'carefully pouring it off). Turn breasts and cook about 2 '
+                 'minutes for medium-rare or to desired doneness. Transfer '
+                 'breasts to a plate and keep warm, covered loosely.',
+                 'While duck breasts are cooking, peel pear and cut into '
+                 '1/4-inch dice. Pour off all but about 1 tablespoon fat from '
+                 'skillet and sauté pear until lightly browned, about 1 '
+                 'minute. In a measuring cup stir together apple juice and '
+                 'cornstarch. To pear add Calvados or Armagnac. Stir in '
+                 'cornstarch mixture, peppercorns, demiglace or bouillon cube, '
+                 'and thyme and simmer, stirring, 2 minutes, or until slightly '
+                 'thickened.',
+                 'Serve duck breasts, sliced, with sauce spooned over them and '
+                 'garnish with thyme sprigs.'],
+  'fat': 8,
+  'ingredients': ['1 1/2 pounds boneless duck breast* (4 boneless breast '
+                  'halves, cut from two 5 1/2- to 6-pound ducks)',
+                  '1 firm-ripe Bosc pear',
+                  '3/4 cup apple juice',
+                  '1/2 teaspoon cornstarch',
+                  '2 tablespoons Calvados or Armagnac',
+                  '1 tablespoon green peppercorns packed in brine, drained and '
+                  'crushed lightly',
+                  '1 tablespoon duck or veal demiglace* or 1/2 extra-large '
+                  'vegetarian vegetable bouillon cube',
+                  '1 teaspoon fresh thyme leaves or 1/4 teaspoon dried, '
+                  'crumbled',
+                  'Garnish: fresh thyme sprigs',
+                  '*available at many butcher shops and specialty foods shops'],
+  'protein': 34,
+  'rating': 4.375,
+  'sodium': 101,
+  'title': 'Crispy Duck Breasts with Pear and Green Peppercorn Sauce '},
+ {'calories': 296,
+  'desc': 'Serve with rice or boiled new potatoes.',
+  'directions': ['Preheat broiler. Cut four 6x8-inch pieces of foil. Place 1 '
+                 'fish fillet in center of each piece of foil. Fold up foil to '
+                 'form rectangle with 3/4-inch-high sides. Sprinkle fish with '
+                 'salt and pepper. Place packets on small baking sheet.',
+                 'Combine butter, 1 tablespoon basil, Old Bay seasoning, lemon '
+                 'juice, and garlic in small bowl. Using wooden spoon, mix '
+                 'until well combined. Spread mixture over fish in foil. Broil '
+                 'fish (do not turn fish) until opaque in center, about 6 '
+                 'minutes. Transfer fish in foil to 4 plates. Sprinkle with '
+                 'remaining 1 tablespoon basil. Serve immediately.'],
+  'fat': 18,
+  'ingredients': ['4 6-ounce cod fillets',
+                  '6 tablespoons (3/4 stick) butter, room temperature',
+                  '2 tablespoons chopped fresh basil',
+                  '2 teaspoons Old Bay seasoning',
+                  '1 teaspoon fresh lemon juice',
+                  '1 garlic clove, minced'],
+  'protein': 31,
+  'rating': 3.75,
+  'sodium': 95,
+  'title': 'Broiled Fish Fillets with Basil Butter '},
+ {'calories': 278,
+  'desc': 'Can be prepared in 45 minutes or less.',
+  'directions': ['In a non-skillet heat 1 tablespoon of the oil over '
+                 'moderately high heat until it is hot but not smoking and in '
+                 'it sauté the cod, seasoned with salt and pepper, for 30 '
+                 'seconds. Sprinkle the cod with the tomatoes, the olives, and '
+                 'the thyme, reduce the heat to moderately low, and cook the '
+                 'mixture, covered for 2 minutes. Scatter the basil over the '
+                 'fish, drizzle it with the remaining 1/2 tablespoon oil, and '
+                 'cook it, covered, for 1 minute, or until it just flakes.'],
+  'fat': 12,
+  'ingredients': ['1 1/2 tablespoons olive oil',
+                  'two 1/2-inch-thick pieces of cod fillet (about 6 ounces '
+                  'each)',
+                  '2 plum tomatoes, peeled, and seeded, and diced',
+                  '2 Kalamata or other brine-cured blacked olives, pitted and '
+                  'sliced thin',
+                  '1/4 teaspoon fresh thyme leaves or a pinch of crumbled '
+                  'dried',
+                  '2 fresh large basil leaves, sliced thin'],
+  'protein': 38,
+  'rating': 3.75,
+  'sodium': 138,
+  'title': 'Sauteed Cod Provençale '},
+ {'calories': 297,
+  'desc': "Butterflying the pork loin isn't difficult, but many butchers will "
+          'do it for you.',
+  'directions': ['Preheat oven to 400°. Finely chop garlic and rosemary with '
+                 '1/2 teaspoon salt on a cutting board. Holding knife at an '
+                 'angle, drag blade over mixture until a coarse paste forms. '
+                 'Transfer paste to a small bowl and mix in oil.',
+                 'Place pork, fat side down, on another cutting board with a '
+                 'short end toward you. Holding a sharp knife parallel to '
+                 'board and about 1/2" up side of loin, make an incision along '
+                 'entire length of one side. Continue cutting, lifting meat '
+                 'with your free hand as you go, until loin is open and flat. '
+                 'Spread garlic mixture over inside of loin and season with '
+                 'salt and pepper. Roll pork tightly; using kitchen twine, tie '
+                 'at 1" intervals.',
+                 'Season pork with salt and pepper; place, fat side up, in a '
+                 'large shallow baking dish. Add wine; roast pork until an '
+                 'instant-read thermometer inserted into thickest part of loin '
+                 'registers 145°, 1 1/2-2 hours. Transfer to a carving board; '
+                 'let rest at least 10 minutes.',
+                 'Spoon fat from surface of pan juices; discard. Slice pork; '
+                 'serve with pan juices.',
+                 'DO AHEAD: Pork can be stuffed and tied 1 day ahead. Cover '
+                 'and chill. Bring to room temperature before roasting.'],
+  'fat': 15,
+  'ingredients': ['8 garlic cloves',
+                  '1/4 cup fresh rosemary leaves',
+                  '1/2 teaspoon kosher salt plus more',
+                  '2 tablespoons olive oil',
+                  '1 4-pound boneless pork loin',
+                  'Freshly ground black pepper',
+                  '2 cups dry white wine'],
+  'protein': 32,
+  'rating': 3.75,
+  'sodium': 153,
+  'title': 'Roast Pork Loin With Rosemary and Garlic '},
+ {'calories': 243,
+  'desc': 'Colorful salsas and relishes made with fresh fruits, vegetables and '
+          'herbs became popular in this decade of diets. The toppings are '
+          'light and fresh and packed with flavor-just right with grilled '
+          'low-fat fish.',
+  'directions': ['Combine first 10 ingredients in medium bowl; toss to blend. '
+                 'Season salsa with salt. Chill to blend flavors, at least 1 '
+                 'hour and up to 4 hours, tossing occasionally.',
+                 'Prepare barbecue (medium-high heat). Brush fish with oil; '
+                 'sprinkle with salt and pepper. Grill until just opaque in '
+                 'center, about 5 minutes per side. Transfer to plates. Top '
+                 'with salsa and serve.'],
+  'fat': 8,
+  'ingredients': ['1 cup 1/4-inch pieces peeled, cored pineapple',
+                  '3/4 cup 1/4-inch pieces peeled, pitted mango',
+                  '2/3 cup 1/4-inch pieces red bell pepper',
+                  '1/2 cup 1/4-inch pieces seeded tomato',
+                  '1/3 cup 1/4-inch pieces seeded English hothouse cucumber',
+                  '1/3 cup 1/4-inch pieces red onion',
+                  '3 tablespoons minced fresh cilantro',
+                  '2 tablespoons minced fresh mint',
+                  '2 tablespoons minced seeded jalapeño chili',
+                  '2 tablespoons fresh lime juice',
+                  '6 6-ounce sea bass fillets',
+                  'Olive oil'],
+  'protein': 32,
+  'rating': 4.375,
+  'sodium': 119,
+  'title': 'Grilled Sea Bass with Tropical Salsa '},
+ {'calories': 247,
+  'desc': 'Team the fish with steamed rice and sautéed spinach, and pour a '
+          'Sauvignon Blanc.',
+  'directions': ['Using small sharp knife, trim all membrane and gray portions '
+                 'from monkfish fillets. Combine oil, garlic and saffron in '
+                 'large bowl. Add fish and turn to coat. Cover and '
+                 'refrigerate, turning occasionally, at least 3 hours and up '
+                 'to 1 day.',
+                 'Preheat oven to 450°F. Arrange fish, with marinade still '
+                 'clinging, on rimmed baking sheet. Sprinkle with salt and '
+                 'pepper. Roast until fish feels firm to touch and is cooked '
+                 'through, about 15 minutes. Spoon Fennel-Saffron Compote onto '
+                 'plates. Slice fish on diagonal into 1/2-inch-thick '
+                 'medallions. Arrange atop compote.'],
+  'fat': 12,
+  'ingredients': ['2 3/4 to 3 pounds monkfish fillets (about 5), well trimmed',
+                  '4 tablespoons olive oil',
+                  '2 1/2 teaspoons minced garlic',
+                  '1/4 teaspoon (packed) crushed saffron threads',
+                  'Fennel-Saffron Compote'],
+  'protein': 32,
+  'rating': 4.375,
+  'sodium': 40,
+  'title': 'Roasted Monkfish with Fennel-Saffron Compote '},
+ {'calories': 252,
+  'desc': None,
+  'directions': ['Heat oil in heavy large skillet over medium-high heat. Add '
+                 'onion and garlic and sauté until just tender, about 4 '
+                 'minutes. Add chicken and cook until chicken is brown, '
+                 'stirring constantly, about 3 minutes. Stir in vinegar and '
+                 'mustard. Continue cooking until chicken is tender and cooked '
+                 'through, stirring constantly, about 3 minutes. Season with '
+                 'salt and pepper. Sprinkle with basil if desired.'],
+  'fat': 11,
+  'ingredients': ['2 tablespoons olive oil',
+                  '1 cup finely chopped onion',
+                  '2 large garlic cloves, minced',
+                  '1 1/4 pounds boneless skinless chicken breasts, cut into '
+                  '1-inch pieces',
+                  '2 tablespoons balsamic vinegar or 1 1/2 tablespoons red '
+                  'wine vinegar',
+                  '1 teaspoon Dijon mustard',
+                  '1/4 cup chopped fresh basil (optional)'],
+  'protein': 32,
+  'rating': 3.75,
+  'sodium': 81,
+  'title': 'Chicken with Balsamic Vinegar '},
+ {'calories': 233,
+  'desc': 'Mild tilapia takes beautifully to a robust, smoky cilantro-chipotle '
+          'sauce.',
+  'directions': ['Preheat broiler.',
+                 'Purée cilantro, oil, chiles with some adobo sauce, water, '
+                 'cumin, 3/4 teaspoon salt, and 1/2 teaspoon pepper in a '
+                 'blender until smooth, then coat fish with sauce.',
+                 'Line rack of a broiler pan with foil, then broil fish 3 to 4 '
+                 'inches from heat until just cooked through, 6 to 9 minutes.'],
+  'fat': 10,
+  'ingredients': ['1 1/2 cups chopped cilantro',
+                  '2 tablespoons vegetable oil',
+                  '1 tablespoon chopped canned chipotles in adobo',
+                  '1 tablespoon water',
+                  '1/2 teaspoon ground cumin',
+                  '4 (6-ounces) tilapia fillets'],
+  'protein': 35,
+  'rating': 4.375,
+  'sodium': 141,
+  'title': 'Cilantro-Chipotle Tilapia '}]
+
+Query 2: Which recipes have 3 ingredients or less?
+Query 2 Output:
+[{'directions': ['Preheat oven to 325°F. Toss pecans and melted butter in '
+                 'medium bowl to coat. Add sea salt and toss. Spread pecans in '
+                 'single layer on rimmed baking sheet.',
+                 'Bake until fragrant and slightly darkened in color, about 15 '
+                 'minutes. Cool pecans on baking sheet.'],
+  'ingredients': ['2 cups pecan halves',
+                  '3 tablespoons unsalted butter, melted',
+                  '1 1/4 teaspoons fine sea salt'],
+  'num_ingredients': 3,
+  'title': 'Sea Salt-Roasted Pecans '},
+ {'directions': ['Divide ice cream among 6 (16-ounce) glasses, then add 1 '
+                 'tablespoon brandy to each. Slowly pour 8 ounces stout into '
+                 'each glass.'],
+  'ingredients': ['2 pints superpremium vanilla ice cream',
+                  '6 tablespoons blackberry brandy',
+                  '4 chilled 12-ounce bottles stout, such as oatmeal stout, '
+                  'chocolate-style beer, or Guinness'],
+  'num_ingredients': 3,
+  'title': 'Stout Floats '},
+ {'directions': ['On a baking sheet toast the bread slices in batches under a '
+                 'preheated broiler about 3 inches from the heat for about 1 '
+                 'minute on each side, or until they are golden, transferring '
+                 'them as they are toasted to a work surface. Rub one side of '
+                 'each toast slice with the cut side of a garlic clove, brush '
+                 'it with some of the oil, and season it with salt.'],
+  'ingredients': ['eight 3/4-inch-thick slices of crusty peasant bread '
+                  '(preferably from a large round loaf)',
+                  '3 garlic cloves, halved crosswise',
+                  '6 tablespoons olive oil (preferably extra-virgin)'],
+  'num_ingredients': 3,
+  'title': 'Garlic Bruschetta '},
+ {'directions': ['Using a long-handled fork char the peppers over an open '
+                 'flame, turning them, for 2 to 3 minutes, or until the skins '
+                 'are blackened. (Or broil the peppers on the rack of a '
+                 'broiler pan under a preheated broiler about 2 inches from '
+                 'the heat, turning them every 5 minutes, for 15 to 25 '
+                 'minutes, or until the skins are blistered and charred.) '
+                 'Transfer the peppers to a bowl and let them steam, covered, '
+                 'until they are cool enough to handle. Peel them starting at '
+                 'the blossom end, cut off the tops, and discard the seeds and '
+                 'ribs.',
+                 'In a kettle cook the chard stems in about 1/2 cup water, '
+                 'covered, over high heat for 5 minutes, add the chard leaves, '
+                 'and cook the chard, covered, stirring occasionally, for 5 '
+                 'minutes. Drain the chard well and in a bowl toss it with the '
+                 'roasted pepper, the oil, and salt and pepper to taste. '
+                 'Reserve 1 1/2 cups of the chard mixture, covered and '
+                 'chilled,, for making the cod cannelloni.'],
+  'ingredients': ['2 1/2 pound Swiss chard, washed well, the coarse stems '
+                  'removed and chopped coarse, and the leaves chopped coarse '
+                  'separately',
+                  '1 red bell pepper, roasted and chopped coarse',
+                  '2 tablespoons extra-virgin olive oil'],
+  'num_ingredients': 3,
+  'title': 'Swiss Chard with Roasted Pepper '},
+ {'directions': ['Brush both sides of nori with sesame oil. Sprinkle nori '
+                 'lightly with salt. Grill nori until edges begin to curl, '
+                 'about 5 seconds per side. Pile sheets on work surface. Using '
+                 'scissors, cut nori lengthwise in half. Cut each half '
+                 'crosswise into 4 rectangles.'],
+  'ingredients': ['4 sheets nori (dried seaweed sheets)',
+                  '2 teaspoons (about) Asian sesame oil',
+                  'Coarse kosher salt'],
+  'num_ingredients': 3,
+  'title': 'Seasoned Nori Wrappers '},
+ {'directions': ['Puree raspberries in syrup in processor. Strain puree; '
+                 'discard seeds. Beat whipping cream and sugar in medium bowl '
+                 'until stiff peaks form. Drizzle raspberry puree over cream. '
+                 'Using knife, swirl raspberry puree into cream just until '
+                 'marbled in appearance. (Can be prepared 4 hours ahead. Cover '
+                 'and chill.)'],
+  'ingredients': ['1/2 cup thawed frozen raspberries in syrup',
+                  '3/4 cup chilled whipping cream',
+                  '2 tablespoons sugar'],
+  'num_ingredients': 3,
+  'title': 'Marbled Raspberry Cream '},
+ {'directions': ['1. Place 2 tablespoons diced fruit, 1 tablespoon citrus '
+                 'fruit, and some herb leaves in a glass.',
+                 '2. Crush with a spoon or muddler.',
+                 '3. Add 2 tablespoons syrup, or to taste.',
+                 '4. Fill glass with crushed ice.',
+                 '5. Mix in spirits.',
+                 '6. Top with sparkling water or club soda.',
+                 'Pineapple, lemon, mint, citrus syrup, vodka',
+                 'Mango, lime, ginger syrup, gin',
+                 'Watermelon, orange, rum',
+                 'Kiwi, grapefruit, tequila'],
+  'ingredients': ['In bowls, put out diced pineapple, mango, watermelon, kiwi, '
+                  'lemon, lime, orange, and grapefruit; raspberries, '
+                  'blueberries, and diced strawberries; mint and basil. '
+                  'Arrange spiced syrups (Citrus Spice Syrup, <epi:recipelink '
+                  'id="234832">Ginger Spice Syrup</epi:recipelink> ), '
+                  'sparkling water, crushed ice, measuring spoons, muddlers, '
+                  'vodka, gin, rum, and tequila on the table.'],
+  'num_ingredients': 1,
+  'title': 'D.i.y. Drinks Bar '},
+ {'directions': ['Mash 1/2 cup blackberries with fork in small bowl. Puree '
+                 'remaining berries in processor. Pour puree into strainer set '
+                 'over bowl, pressing on solids to extract as much liquid as '
+                 'possible. Discard solids in strainer. Whisk preserves and '
+                 'mashed berries into puree. (Can be made 1 day ahead. Cover '
+                 'and refrigerate.)'],
+  'ingredients': ['2 cups frozen blackberries, thawed',
+                  '1/4 cup black raspberry preserves'],
+  'num_ingredients': 2,
+  'title': 'Blackberry-Raspberry Sauce '},
+ {'directions': ['1. Heat a wok over high heat for 30 seconds. Add the peanut '
+                 'oil and onions, and cook for 7 minutes, stirring and turning '
+                 'the onions often to prevent burning and to ensure even '
+                 'browning. Reduce the heat to medium and cook, stirring '
+                 'often, for 15 minutes more, or until the onions turn light '
+                 'brown.',
+                 'Turn off the heat. Strain the oil through a fine-mesh '
+                 'strainer into a heatproof bowl, pressing the onions with a '
+                 'ladle as they drain. Allow the oil to cool to room '
+                 'temperature. Set the fried onions aside to cool. Pour the '
+                 'cooled oil into a sterilized glass jar and close tightly. '
+                 'The oil will keep at room temperature for 1 week or '
+                 'refrigerated for up to 3 months. Transfer the fried onions '
+                 'to a plastic container, cover, and refrigerate. They will '
+                 'keep for up to 3 months.'],
+  'ingredients': ['1 3/4 cups peanut oil',
+                  '1 pound onions, very thinly sliced (4 cups)'],
+  'num_ingredients': 2,
+  'title': 'Onion Oil '},
+ {'directions': ['In large stockpot, bring 4 gallons water to rolling boil. '
+                 '(Note: Even small quantities of noodles need to be cooked a '
+                 'lot of water.) Add noodles and begin timing after water has '
+                 'returned to boil. If cooking semidried udon, boil 8 to 9 '
+                 'minutes before testing; if cooking dried, boil 10 to 12 '
+                 'minutes. Test by plucking a noodle from pot, plunging it '
+                 'into cold water, then biting. Noodle should be tender with '
+                 'no hard core; outer surface should be slippery but not '
+                 'overly soft. (This condition is what the Japanese refer to '
+                 'as koshi, or "substance," just as the Italians enjoy their '
+                 'pasta al dente.) If necessary, cook for another minute and '
+                 'check again.',
+                 'If you will be serving noodles hot, scoop them up into a '
+                 'strainer and lift from pot to drain. (Do not pour off '
+                 'cooking liquid; boiling water in pot can be used both to '
+                 're-heat noodles, and to warm bowls in which they will be '
+                 'served.)',
+                 'If you will be serving noodles cold, drain them.',
+                 'Whether serving noodles hot or cold, rinse them well under '
+                 'cold running water to remove surface starch that would '
+                 'otherwise make them gummy. Then drain.',
+                 'Set noodles aside until ready to eat — they can be held for '
+                 'up to several hours (refrigerate if holding for more than 20 '
+                 'minutes). When ready to use, rinse noodles in boiling hot '
+                 'water if serving them in hot soup, or cold water if serving '
+                 'chilled as a salad.',
+                 'Other dried wheat noodles similar to udon include flat '
+                 'kishimen or thinner hiyamugi. Boil these dried noodles for 5 '
+                 'to 6 minutes before checking for doneness.'],
+  'ingredients': ['10 ounces dried or semidried (slightly flexible, '
+                  'shelf-stable) udon noodles'],
+  'num_ingredients': 1,
+  'title': 'To Cook Dried Udon Noodles '}]
+
+
+Query 3: What is the average rating of all recipes?
+Query 3 Output:
+[{'_id': 'average rating', 'avg_val': 3.712062402964892}]
+
+
+Query 7: Can I look for recipes with a specific ingredient?
+Query 7 Output:
+[{'desc': 'This recipe can be prepared in 45 minutes or less.',
+  'directions': ['Mix basil, mayonnaise and butter in processor until basil is '
+                 'finely chopped and mixture is well blended. Season to taste '
+                 'with salt and pepper. (Can be made 1 day ahead. Cover and '
+                 'refrigerate.)',
+                 'Cook bacon in heavy large skillet over medium-high heat '
+                 'until crisp, about 8 minutes. Transfer to paper towels; '
+                 'drain.',
+                 'Spread half of mayonnaise mixture over 1 side of 6 bread '
+                 'slices. Top each with 2 tomato slices. Sprinkle tomatoes '
+                 'with salt and pepper. Top tomato slices with avocado, then '
+                 'with bacon strips, onion and lettuce. Spread remaining '
+                 'mayonnaise mixture over remaining 6 bread slices. Place '
+                 'bread slices atop lettuce. Cut sandwiches in half and '
+                 'serve.'],
+  'ingredients': ['2 1/2 cups (lightly packed) fresh basil leaves',
+                  '1 cup mayonnaise',
+                  '1/4 cup butter, room temperature',
+                  '12 thick-sliced bacon strips (about 1 pound)',
+                  '12 1/2-inch-thick slices fresh country-style white bread',
+                  '3 large tomatoes, cut into 1/4-inch-thick rounds',
+                  '2 ripe avocados, pitted, peeled, sliced',
+                  '1 red onion, thinly sliced',
+                  '6 lettuce leaves'],
+  'rating': 4.375,
+  'title': 'The Best Blts '},
+ {'desc': None,
+  'directions': ['Heat oil in heavy large skillet over medium heat. Add '
+                 'pancetta, celery, and onion. Sauté until vegetables are soft '
+                 'but not brown, about 12 minutes. Transfer 1/2 cup sliced '
+                 'Treviso to small bowl and reserve for topping. Add remaining '
+                 'Treviso, 2 teaspoons thyme, and garlic to skillet. Toss '
+                 'until Treviso wilts, about 3 minutes. Season filling with '
+                 'salt and pepper.',
+                 'Cook lasagna noodles in large pot of boiling salted water '
+                 'until just tender but still firm to bite, stirring '
+                 'occasionally. Drain noodles. Arrange noodles in single layer '
+                 'on large sheet of plastic wrap; cover with second sheet to '
+                 'avoid drying. DO AHEAD: Filling and pasta can be made 2 '
+                 'hours ahead. Let stand at room temperature.',
+                 'Melt butter in heavy medium saucepan over medium-low heat. '
+                 'Add flour and whisk until roux is pale gold color, about 2 '
+                 'minutes. Gradually whisk in milk; add nutmeg and white '
+                 'pepper. Increase heat to medium and cook until sauce '
+                 'thickens and boils, whisking often, 2 to 3 minutes. Reduce '
+                 'heat to low. Add Taleggio cheese in 4 batches, whisking to '
+                 'melt before adding more, about 4 minutes. Season sauce to '
+                 'taste with salt and pepper.',
+                 'Spoon 1/2 cup sauce into 13 x 9 x 2-inch glass baking dish; '
+                 'spread to cover bottom thinly. Arrange 3 noodles, crosswise '
+                 'and side by side, in dish; trim ends if necessary to fit. '
+                 'Transfer 3/4 cup filling to another small bowl and reserve '
+                 'for topping. Spoon half of remaining filling over noodles. '
+                 'Drizzle with 2/3 cup sauce; sprinkle with 1/4 cup Parmesan '
+                 'cheese. Repeat with noodles, filling, sauce, and Parmesan. '
+                 'Top with third layer of noodles; drizzle with 2/3 cup sauce. '
+                 'Spoon reserved 3/4 cup filling down center of lasagna '
+                 'lengthwise in 2-inch-wide strip. Drizzle strip with '
+                 'remaining sauce, then top with breadcrumbs. DO AHEAD: Can be '
+                 'made 1 day ahead. Cover and chill. Let stand at room '
+                 'temperature 1 hour before continuing.',
+                 'Preheat oven to 375°F. Bake lasagna uncovered until heated '
+                 'through and sauce is bubbling, about 35 minutes. Remove from '
+                 'oven; let cool 15 minutes.',
+                 'Toss reserved Treviso in small bowl with splash of olive oil '
+                 'and sprinkle of salt and pepper. Sprinkle over strip of '
+                 'filling. Sprinkle with remaining 1 teaspoon thyme.'],
+  'ingredients': ['3 tablespoons extra-virgin olive oil',
+                  '8 ounces thinly sliced pancetta (Italian bacon), chopped',
+                  '2 cups thinly sliced celery hearts',
+                  '1 2/3 cups chopped onion',
+                  '1 pound Treviso radicchio or red endive (4 medium heads), '
+                  'quartered lengthwise, cored, then cut on diagonal into thin '
+                  'strips (about 6 cups), divided',
+                  '3 teaspoons chopped fresh thyme, divided',
+                  '1 garlic clove, finely chopped',
+                  '9 lasagna noodles (each 7 x 3 inches)',
+                  '1/4 cup (1/2 stick) unsalted butter',
+                  '2 1/2 tablespoons all purpose flour',
+                  '2 cups whole milk',
+                  'Pinch of ground nutmeg',
+                  'Pinch of ground white pepper',
+                  '12 ounces Taleggio cheese,* rind removed, cheese cut into '
+                  '1/2-inch cubes',
+                  '1/2 cup finely grated Parmesan cheese, divided',
+                  '2 tablespoons coarse dry breadcrumbs (preferably from '
+                  'crustless Italian bread)',
+                  'Olive oil'],
+  'rating': 3.75,
+  'title': 'Pancetta and Taleggio Lasagna with Treviso '},
+ {'desc': "Don't be surprised if these spears prove even more popular than the "
+          "classic mash—they brown up beautifully, and it's hard to resist the "
+          'siren call of bacon.',
+  'directions': ['Put oven rack in upper third of oven and preheat oven to '
+                 '450°F.',
+                 'Peel sweet potatoes, then cut each lengthwise into 6 spears. '
+                 'Cut spears in half crosswise if desired, then arrange in 1 '
+                 'layer in a large (17- by 12-inch) shallow baking pan.',
+                 'Cook bacon in a 10-inch heavy skillet over moderate heat, '
+                 'stirring, until browned and crisp, 10 to 15 minutes. '
+                 'Transfer with a slotted spoon to paper towels to drain, then '
+                 'pour bacon fat through a fine-mesh sieve onto potato spears '
+                 'and toss with 2 spatulas to coat. Sprinkle spears with 1/2 '
+                 'teaspoon salt and 1/4 teaspoon pepper and roast (uncovered), '
+                 'turning every 15 to 20 minutes, until potatoes are tender '
+                 'and edges are browned, 45 minutes to 1 hour. Transfer to a '
+                 'serving dish.',
+                 'Return bacon to cleaned skillet, then add oil and heat over '
+                 'moderate heat until hot but not smoking. Stir in white part '
+                 'of scallions and remove from heat. Stir in vinegar, water, '
+                 'remaining 1/2 teaspoon salt, and remaining 1/4 teaspoon '
+                 'pepper and pour over potato spears. Sprinkle potatoes with '
+                 'scallion greens and serve warm.'],
+  'ingredients': ['4 pounds medium sweet potatoes (about 7)',
+                  '1/2 pound sliced bacon, cut crosswise into 1/2-inch-wide '
+                  'strips',
+                  '1 teaspoon salt',
+                  '1/2 teaspoon black pepper',
+                  '1/4 cup extra-virgin olive oil',
+                  '3 scallions, thinly sliced, reserving sliced greens '
+                  'separately',
+                  '2 tablespoons Sherry vinegar',
+                  '1 tablespoon water'],
+  'rating': 4.375,
+  'title': 'Roasted Sweet-Potato Spears with Bacon Vinaigrette '},
+ {'desc': 'These dangerously addictive little bites fueled countless 1950s and '
+          "'60s bridge parties from Greenwood Mississippi, to Greenville, "
+          'South Carolina, before being rescued from recipe-box oblivion by '
+          'modern Southern cooks like Martha Hall Foose. And thank goodness. '
+          'Magic happens when a cracker slowly sops up the fat from smoky, '
+          'crisping bacon; it transforms into something more akin to piecrust. '
+          'Unadorned, bacon crackers are pure pork perfection. The addition of '
+          'a tine bundle of rosemary needles makes for a fancified version, '
+          'while topping the "belt" of bacon with a bit of brown sugar adds a '
+          'hint of sweet to the smoke.',
+  'directions': ['Preheat the oven to 250°F. Line the bottom of a broiler pan '
+                 'with foil for easy cleanup.',
+                 'Cut the bacon slices in half lengthwise and then crosswire '
+                 'to create 4 long strips.',
+                 'Arrange the crackers on a work surface and wrap a bacon '
+                 'strip around each cracker, overlapping the ends on top.',
+                 'If making Herbed Bacon Crackers, tuck a base of rosemary '
+                 'tips under overlapping ends of bacon. If making Brown Sugar '
+                 'Bacon Crackers, carefully sprinkle 1/8 teaspoon brown sugar '
+                 'on the top side of each cracker, pressing to help it adhere '
+                 '(avoid getting sugar on the cracker or it will burn.)',
+                 'Set a perforated rack on top of the foil-lined broiler pan '
+                 'and arrange the crackers seam-side down 1/2 apart in a '
+                 'single layer and bake for 1 to 1 1/2 hours, until the bacon '
+                 'is at your desired level of crispness. Transfer the crackers '
+                 'to a cooling rack and cool completely before serving.'],
+  'ingredients': ['12 bacon slices (not thick-cut)',
+                  '48 saltines or buttery crackers, such as Club brand',
+                  '48 fresh rosemary tips (for Herbed Bacon Crackers)',
+                  '6 teaspoons dark brown sugar (for Brown Sugar Bacon '
+                  'Crackers)'],
+  'rating': 0,
+  'title': 'Bacon Crackers '},
+ {'desc': None,
+  'directions': ['Cook bacon in large skillet until crisp; transfer to paper '
+                 'towels. Pour off all but 1 teaspoon drippings from skillet. '
+                 'Return bacon to skillet; mix in onion. Remove from heat. '
+                 'Whisk oil and lemon juice in small bowl; season with salt '
+                 'and pepper.',
+                 'Cook asparagus in pot of boiling salted water until '
+                 'crisp-tender, about 3 minutes. Transfer to paper towels to '
+                 'drain, then place in large bowl. Add dressing; toss. Arrange '
+                 'on platter. Stir bacon mixture over medium-low heat about 3 '
+                 'minutes; spoon atop asparagus.'],
+  'ingredients': ['3 slices bacon, cut into 1/4-inch pieces',
+                  '1/2 small onion, cut into 1/4-inch cubes',
+                  '2 teaspoons hazelnut oil or walnut oil',
+                  '1 teaspoon fresh lemon juice',
+                  '24 stalks of asparagus, trimmed'],
+  'rating': 4.375,
+  'title': 'Asparagus with Bacon and Onion '},
+ {'desc': "These aren't sticky-sweet brown sugar baked beans. Think of them "
+          'like the top crust of a good cassoulet.',
+  'directions': ['Drain beans and place in a large heavy pot along with halved '
+                 'onion, Parmesan rind (if using), halved head of garlic, bay '
+                 'leaves, and 2 teaspoons salt. Add water to cover by 2". '
+                 'Bring to a boil, reduce heat, and simmer until beans are '
+                 'tender, 1–1 1/2 hours.',
+                 'Meanwhile, cook bacon in a large skillet over medium heat, '
+                 'turning occasionally, until brown and most of fat has '
+                 'rendered, 8–10 minutes. Transfer to a plate with tongs or a '
+                 'slotted spoon.',
+                 'Add thinly sliced onion, shallot, thyme sprigs, and '
+                 'three-fourths of chopped garlic to pan drippings in skillet; '
+                 'season with salt and pepper. Cook, stirring occasionally, '
+                 'until onion is starting to caramelize and is very soft, '
+                 '10–15 minutes. Add wine, bring to a simmer, and cook, '
+                 'stirring occasionally, until liquid is almost completely '
+                 'evaporated, about 4 minutes. Remove from heat and pluck out '
+                 'thyme sprigs.',
+                 'Preheat oven to 400°. Drain beans, reserving cooking liquid. '
+                 'Transfer beans to a large bowl and mix in bacon, onion '
+                 'mixture, thyme leaves, and 1 1/2–2 cups cooking liquid (this '
+                 'will be most of it; mixture should be consistency of stew); '
+                 'season with salt and pepper. Transfer beans to a shallow 1 '
+                 '1/2-quart baking dish.',
+                 'Mix breadcrumbs, oil, and remaining chopped garlic in a '
+                 'medium bowl; season with salt and pepper. Scatter over '
+                 'beans; bake until liquid is thickened and bubbling and '
+                 'crumbs are golden brown, 45–55 minutes. Let cool slightly '
+                 'before serving.',
+                 'Do ahead: Beans can be baked 5 days ahead. Let cool; cover '
+                 'and chill.'],
+  'ingredients': ['2 cups dried navy or cannellini beans, soaked overnight',
+                  '2 medium onions, 1 halved, 1 thinly sliced',
+                  '1 Parmesan rind (optional), plus',
+                  '1/2 cup finely grated Parmesan',
+                  '1 head garlic, halved crosswise, plus 4 cloves, finely '
+                  'chopped, divided',
+                  '2 bay leaves',
+                  '2 teaspoons kosher salt, plus more',
+                  '8 ounce slab bacon, cut into 2x1/4" pieces',
+                  '1 large shallot, thinly sliced',
+                  '4 sprigs thyme plus 1 tablespoon leaves',
+                  'Freshly ground black pepper',
+                  '1/4 cup dry white wine',
+                  '1 1/2 cups coarsely torn fresh breadcrumbs',
+                  '2 tablespoons olive oil'],
+  'rating': 4.375,
+  'title': 'Baked Beans with Slab Bacon and Breadcrumbs '},
+ {'desc': 'Pitted prunes replace the more customary mushrooms in this '
+          'delicious variation.',
+  'directions': ['Fry bacon in heavy large skillet over medium heat until '
+                 'brown and crisp. Transfer to paper towels and drain. Season '
+                 'chicken with salt and pepper and sauté until just cooked '
+                 'through, about 6 minutes per side. Transfer chicken to '
+                 'plate. Add onions to skillet and sauté until beginning to '
+                 'brown, about 4 minutes. Pour off all but 2 tablespoons '
+                 'drippings from skillet. Add broth, wine, prunes, gravy and '
+                 'thyme. Cover skillet and simmer until onions are just '
+                 'tender, about 6 minutes. Uncover, increase heat to high and '
+                 'boil until sauce coats spoon, about 10 minutes. Return '
+                 'chicken and any juices to skillet. Simmer until chicken is '
+                 'heated through, about 2 minutes. (Can be prepared 1 day '
+                 'ahead. Cover and refrigerate. Reheat gently before serving.) '
+                 'Arrange chicken on platter. Spoon sauce over. Crumble bacon '
+                 'over top of chicken and serve.'],
+  'ingredients': ['4 slices bacon',
+                  '4 large boneless chicken breasts with skin (about 1 1/4 '
+                  'pounds)',
+                  '16 1-inch boiling onions, peeled',
+                  '1 cup canned low-salt chicken broth',
+                  '1 cup dry red wine',
+                  '1 cup firm pitted prunes (about 6 ounces)',
+                  '1/2 cup canned beef gravy',
+                  '3/4 teaspoon dried thyme, crumbled'],
+  'rating': 4.375,
+  'title': 'Coq au Vin Nouveau '},
+ {'desc': 'This is one of my all-time favorite sauces. It is excellent with '
+          'grilled or roasted poultry or pork dishes. When I travel and cook '
+          'at various events, I often include this on the menu.',
+  'directions': ['Toast the chipotle in a small skillet over medium heat. '
+                 'Remove the stem and seeds.',
+                 'Combine the vinegar and toasted chipotle in a small bowl. '
+                 'Set aside to soften.',
+                 'In a medium pot, cook the bacon in the olive oil over '
+                 'medium-low heat until beginning to crisp. Turn the heat up '
+                 'to medium, add the poblano, onion, carrot, garlic, and '
+                 'Scotch bonnet, and season with salt and pepper. Cook until '
+                 'the vegetables begin to soften, about 4 minutes.',
+                 'Add the annatto seeds and stir. Then add the '
+                 'chipotle-vinegar mixture, the bay leaf, cumin, and 1 '
+                 'teaspoon pepper, and simmer until almost all of the liquid '
+                 'has evaporated, 2 to 3 minutes. Add the orange juice and '
+                 'simmer until only a small amount of liquid remains, 4 to 6 '
+                 'minutes.',
+                 'Add the chicken stock and reduce almost to a glaze, about 7 '
+                 "minutes (you'll know it is done when the bubbles start "
+                 'getting bigger). Add the heavy cream and vanilla bean, stir, '
+                 'and simmer for 8 to 10 minutes, until the cream in quite '
+                 'thick. Pass the mixture through a fine-mesh strainer; '
+                 'discard the solids. Reserve.',
+                 'In a sauté pan, heat the canola oil. Add the plantain, '
+                 'season with salt and pepper, and cook over medium heat, '
+                 'turning occasionally, until dark golden brown on all sides. '
+                 'Transfer to a paper towel to drain.',
+                 'In a blender, puree the plantain with the strained liquid. '
+                 'If any lumps of plantain remain, strain one more time. '
+                 'Refrigerate until needed; this will keep for 4 or 5 days.'],
+  'ingredients': ['1 chipotle chile',
+                  '1 tablespoon Chipotle Vinegar or Spanish sherry vinegar',
+                  '2 1/2 ounces smoky bacon, diced',
+                  '1 tablespoon olive oil',
+                  '1 poblano pepper, stemmed, seeded, and minced',
+                  '1/2 large red onion, diced',
+                  '1 carrot, peeled and diced',
+                  '2 cloves garlic, sliced',
+                  '1 Scotch bonnet chile, stemmed, seeded, and minced',
+                  'Kosher salt and freshly ground black pepper',
+                  '1 teaspoon annatto seeds',
+                  '1 bay leaf, broken in half',
+                  '1 teaspoon toasted and ground cumin seeds',
+                  '1/2 cup fresh orange juice',
+                  '1/2 cup Chicken Stock',
+                  '2 cups heavy cream',
+                  '1 vanilla bean, split lengthwise',
+                  '1 tablespoon canola oil',
+                  '1/2 very ripe plantain (the skin should be almost black)'],
+  'rating': 4.375,
+  'title': 'Smoky Plantain Crema '},
+ {'desc': None,
+  'directions': ['Position rack in bottom third of oven and preheat to 350°F. '
+                 'Cook bacon in very large pot over medium-high heat until '
+                 'brown but not yet crisp, stirring often, 8 to 10 minutes. '
+                 'Add smoked sausage, andouille, and tasso. Sauté until meats '
+                 'start to brown in spots, about 10 minutes. Add onions, '
+                 'celery, and bell peppers. Cook until vegetables begin to '
+                 'soften, stirring occasionally, 10 to 12 minutes. Mix in '
+                 'chicken. Cook until outside of chicken turns white, stirring '
+                 'often, 5 to 6 minutes. Mix in paprika, thyme, chili powder, '
+                 'and 1/4 teaspoon cayenne. Cook 1 minute. Add diced tomatoes '
+                 'with chiles and broth; stir to blend well. Add more cayenne, '
+                 'if desired. Mix in rice.',
+                 'Bring jambalaya to boil. Cover pot. Place in oven and bake '
+                 'until rice is tender and liquids are absorbed, 45 to 48 '
+                 'minutes. Uncover pot. Mix chopped green onions into '
+                 'jambalaya; sprinkle jambalaya with chopped parsley and '
+                 'serve.'],
+  'ingredients': ['12 ounces applewood-smoked bacon, diced',
+                  '1 1/2 pounds smoked fully cooked sausage (such as '
+                  'linguiça), halved lengthwise, cut crosswise into '
+                  '1/2-inch-thick semi-circles',
+                  '1 pound andouille sausages, quartered lengthwise, cut '
+                  'crosswise into 1/2-inch cubes',
+                  '1/2 pound tasso or smoked ham (such as Black Forest), cut '
+                  'into 1/2-inch cubes',
+                  '1 1/2 pounds onions, chopped (4 to 5 cups)',
+                  '2 large celery stalks, chopped',
+                  '1 8-to 10-ounce red bell pepper, coarsely chopped',
+                  '1 8-to 10-ounce green bell pepper, coarsely chopped',
+                  '6 large skinless boneless chicken thighs, cut into 1- to '
+                  '11/2-inch pieces',
+                  '2 tablespoons paprika',
+                  '1 tablespoon chopped fresh thyme',
+                  '1 tablespoon chili powder',
+                  '1/4 teaspoon (or more) cayenne pepper',
+                  '3 10-ounce cans diced tomatoes and green chiles',
+                  '2 1/2 cups beef broth',
+                  '3 cups (19 to 20 ounces) long-grain white rice',
+                  '8 green onions, chopped (about 2 cups)',
+                  'Chopped fresh Italian parsley'],
+  'rating': 5,
+  'title': 'Chicken and Sausage Jambalaya '},
+ {'desc': 'An updated southern side dish.',
+  'directions': ['Cook bacon in heavy large skillet over medium-high heat '
+                 'until brown and crisp. Using slotted spoon, transfer bacon '
+                 'to paper towel and drain. Pour off all but 2 tablespoons '
+                 'drippings from skillet. Add green beans and bell pepper to '
+                 'skillet. Toss vegetables over medium-high heat until coated '
+                 'with drippings, about 1 minute. Add broth. Cover and cook '
+                 'until vegetables are crisp-tender, about 5 minutes. Season '
+                 'to taste with salt and pepper. Transfer to serving bowl. '
+                 'Sprinkle with bacon and serve.'],
+  'ingredients': ['6 bacon slices, coarsely chopped',
+                  '1 pound green beans, trimmed, cut in half',
+                  '1 large red bell pepper, cut lengthwise into thin strips',
+                  '1/2 cup canned low-salt chicken broth'],
+  'rating': 4.375,
+  'title': 'Green Beans with Bacon and Red Bell Pepper '}]
+
+
+Query 9: How many distinct-categories are there?
+Query 9 Output:
+673
+
+
+Query 10: Which recipes have the fewest directions?
+Query 10 Output:
+[{'_id': 'Chocolate Raspberry Sauce ', 'count': 1},
+ {'_id': 'Simple Chicken Curry ', 'count': 1},
+ {'_id': 'Steamed Mussels with Chipoltes and Coconut Milk ', 'count': 1},
+ {'_id': 'Creamy Mashed Potatoes with Goat Cheese and Fresh Sage ', 'count': 1},
+ {'_id': 'Spring-Onion Cocktail ', 'count': 1},
+ {'_id': 'Southwest Veggie Nachos ', 'count': 1},
+ {'_id': 'Old South Ambrosia ', 'count': 1},
+ {'_id': 'Cassoulet Soup ', 'count': 1},
+ {'_id': 'Watercress, Orange and Red Onion Salad ', 'count': 1},
+ {'_id': 'Turkey Panino with Cranberry Sauce ', 'count': 1}]

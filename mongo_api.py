@@ -153,7 +153,7 @@ class MongoAPI:
         ax = sns.barplot(x = counts, y = categories)
         plt.xlabel('Rating')
         plt.ylabel('Recipe Categories')
-        plt.title(f'Top {num} Categories with the Most Recipes')
+        plt.title(f'Top {num} Categories with the Best Ratings')
         plt.show()
 
     # Q7    
